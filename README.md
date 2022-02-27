@@ -1,2 +1,2 @@
 # testimage
-+ test 8
++ test 1
