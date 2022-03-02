@@ -1,2 +1,2 @@
 # testimage
-+ test 24
++ test 25
